@@ -65,6 +65,7 @@ extern "C"{
 #define LAYOUT_US_INTERNATIONAL	0x17
 #define LAYOUT_CZECH	0x18
 #define LAYOUT_SERBIAN_LATIN_ONLY	0x19
+#define LAYOUT_FRENCH_MACBOOKPRO	0x20
 
 
 // http://en.wikipedia.org/wiki/Keyboard_layout
